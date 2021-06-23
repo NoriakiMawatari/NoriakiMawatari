@@ -17,7 +17,7 @@ I'm a self-taught Python developer and biomedical engineer motivated to improve 
 <hr>
 
 ## 𝗦𝘁𝗮𝘁𝘀
-[![Noriaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=noriakimawatari&theme=dracula&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Noriaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoriakiMawatari&theme=dracula&hide=prs,issues)](https://github.com/NoriakiMawatari)
 <hr>
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
